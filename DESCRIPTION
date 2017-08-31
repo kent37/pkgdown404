@@ -1,0 +1,16 @@
+Package: pkgdown404
+Type: Package
+Title: Demonstrate pkgdown ticket #404
+Version: 0.1.0
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Authors@R: c(
+    person("Kent", "Johnson", role = c("aut", "cre"),
+           email = "kent3737@gmail.com"))
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
